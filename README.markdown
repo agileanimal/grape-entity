@@ -1,6 +1,8 @@
-# Grape::Entity
+***This repos has been moved back to Inridea so that it can live with Grape - https://github.com/intridea/grape-entity***
 
+# Grape::Entity
 [![Build Status](https://travis-ci.org/agileanimal/grape-entity.png?branch=master)](https://travis-ci.org/agileanimal/grape-entity)
+
 
 ## Introduction
 
